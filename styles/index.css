@@ -70,7 +70,7 @@ nav .left {
       rgb(17, 17, 17),
       rgba(17, 17, 17, 0) 100%
     ),
-    url("/images/banner.png");
+    url("./images/banner.png");
   background-repeat: no-repeat;
 
   width: 100%;
@@ -94,6 +94,7 @@ nav .left {
   height: 64px;
   border-radius: 8px;
   padding-right: 30%;
+  border: none;
 }
 .banner-details .btn {
   width: 150px;
@@ -171,7 +172,7 @@ nav .left {
       rgb(17, 17, 17),
       rgba(17, 17, 17, 0) 100%
     ),
-    url("/images/slider-2.jpg");
+    url("./images/slider-2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 8px;
